@@ -1,0 +1,1 @@
+var json_CAIR_18 = {"type":"FeatureCollection","name":"CAIR_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nº":"007","Localidad":"Villa Mercedes","Entidad":"RENATRE (propia)","Direccion":"Pedernera 910"},"geometry":{"type":"Point","coordinates":[-65.463573656751791,-33.676449252047675]}}]}
